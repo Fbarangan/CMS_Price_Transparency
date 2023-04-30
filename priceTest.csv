@@ -1,0 +1,4 @@
+Procedure,Code type,Code,NDC,Rev Code,Procedure Description,Quantity,Payer,Contract,Plan(s),IP Price,IP Pricing Detail,IP Pricing Detail,IP Expected Reimbursement,IP XR Detail,OP Price,OP Pricing Detail,OP Expected Reimbursement,OP XR Detail
+516,EAP,CPT 10080,,0516 - CLINIC - URGENT CARE CLINIC,Cyst Simple,1,Self Pay,Self Pay,Self Pay,100,some text1,some text2,200,some text3,100,some text4,200,some text5
+516,EAP,CPT 10080,,0516 - CLINIC - EMERGENCY ROOM URGENT CARE CLINIC,Cyst Simple,1,Payer1,Payer1Contract1,Payer1Plan1,100,some text12,some text22,300,some text32,100,some text42,400,some text52
+516,EAP,CPT 10080,,0516 - CLINIC - URGENT CARE CLINIC,Cyst Simple,1,Self Pay,Payer1Contract2,Payer1Plan2,100,some text12,some text22,250,some text3,100,some text42,350,some text52
