@@ -10,3 +10,6 @@ Currently the code is able to performa desired output which is a:
 The issue which needs to be resolve is it is erroring if ther are duplicate rows but with different IP/OP price. The intent is to 
 perform mean on those rows that have duplicate dimension but with different IP/OP values. 
 ...Will continue to research. but so far the base code is acceptable.
+
+Note. The priceTest is the raw data
+         Output 2 is the pase output for the first phase.
