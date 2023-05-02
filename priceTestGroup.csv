@@ -1,0 +1,4 @@
+"Code","NDC","Rev_Code","Procedure_Description","Plans","IP_Price","OP_Price","IP","OP"
+"EAP",NA,"0516 - CLINIC - EMERGENCY ROOM URGENT CARE CLINIC","Cyst Simple","Payer1Plan1",100,100,300,400
+"EAP",NA,"0516 - CLINIC - URGENT CARE CLINIC","Cyst Simple","Payer1Plan2",100,100,175,350
+"EAP",NA,"0516 - CLINIC - URGENT CARE CLINIC","Cyst Simple","Self Pay",100,100,200,200
